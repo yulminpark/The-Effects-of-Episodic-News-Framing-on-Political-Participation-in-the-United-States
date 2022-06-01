@@ -1,0 +1,233 @@
+================================================================================
+Codebook for Variables
+(Extracted from the 2020 Cooperative Congressional Election Study (CCES) Module)
+
+* Note:   Our module is omnibus, and therefore, we cannot make publicly available other researchers' questions.
+            Only the questions that I used for my research are included in this codebook.
+
+Total Number of Interviews:   1,000 individuals
+Field Period:                      September 29, 2020 - November 02, 2020
+
+================================================================================
+           Variable List                                 
+================================================================================
+
+birthyr                       Birth Year
+gender                      Gender
+educ                         Education
+inputstate                   State of Residence
+newsint                      Political Interest
+faminc_new                 Family Income
+UTA357                      PolitDiscussions
+UTA358                      Protest
+UTA359                      Article1
+UTA360                      Article2
+UTA361                      LA1
+UTA362                      LA1b
+ 
+================================================================================
+            Variable Map and Codebook                           
+================================================================================
+Name:          birthyr
+Description:   Birth Year
+         
+               Numeric Variable - no categories
+         
+               answered       : 1000
+
+================================================================================
+Name:          gender
+Description:   Gender
+         
+          Count   Code   Label
+          ------   ------   ------
+            425      1   Male
+            575      2   Female
+         
+================================================================================
+Name:          educ
+Description:   Education
+         
+          Count   Code   Label
+          ------   ------   ------
+             37      1   No HS
+            275      2   High school graduate
+            216      3   Some college
+            105      4   2-year
+            229      5   4-year
+            138      6   Post-grad
+         
+================================================================================
+Name:          inputstate
+Description:   State of Residence
+         
+          Count   Code   Label
+          ------   ------   ------
+             15      1   Alabama
+              5      2   Alaska
+             33      4   Arizona
+             14      5   Arkansas
+             80      6   California
+             13      8   Colorado
+              7      9   Connecticut
+              3     10   Delaware
+              5     11   District of Columbia
+             62     12   Florida
+             38     13   Georgia
+              2     15   Hawaii
+              4     16   Idaho
+             25     17   Illinois
+             27     18   Indiana
+              9     19   Iowa
+              7     20   Kansas
+             18     21   Kentucky
+             11     22   Louisiana
+              7     23   Maine
+              9     24   Maryland
+             28     25   Massachusetts
+             32     26   Michigan
+             12     27   Minnesota
+             13     28   Mississippi
+             22     29   Missouri
+              1     30   Montana
+              6     31   Nebraska
+             11     32   Nevada
+              3     33   New Hampshire
+             23     34   New Jersey
+              8     35   New Mexico
+             61     36   New York
+             31     37   North Carolina
+              3     38   North Dakota
+             47     39   Ohio
+              6     40   Oklahoma
+             20     41   Oregon
+             57     42   Pennsylvania
+              3     44   Rhode Island
+             22     45   South Carolina
+              7     46   South Dakota
+             27     47   Tennessee
+             69     48   Texas
+             14     49   Utah
+              1     50   Vermont
+             32     51   Virginia
+             25     53   Washington
+              6     54   West Virginia
+             14     55   Wisconsin
+              2     56   Wyoming
+         
+================================================================================
+Name:          newsint
+Description:   Political Interest
+         
+          Count   Code   Label
+          ------   ------   ------
+            514      1   Most of the time
+            281      2   Some of the time
+            111      3   Only now and then
+             55      4   Hardly at all
+             38      7   Don't know
+              1     98   skipped
+         
+================================================================================
+Name:          faminc_new
+Description:   Family Income
+         
+          Count   Code   Label
+          ------   ------   ------
+             50      1   Less than $10,000
+             80      2   $10,000 - $19,999
+             83      3   $20,000 - $29,999
+             84      4   $30,000 - $39,999
+             94      5   $40,000 - $49,999
+             86      6   $50,000 - $59,999
+             62      7   $60,000 - $69,999
+             79      8   $70,000 - $79,999
+             79      9   $80,000 - $99,999
+             79     10   $100,000 - $119,999
+             56     11   $120,000 - $149,999
+             37     12   $150,000 - $199,999
+             14     13   $200,000 - $249,999
+              8     14   $250,000 - $349,999
+              4     15   $350,000 - $499,999
+              5     16   $500,000 or more
+             99     97   Prefer not to say
+              1    998   skipped
+         
+================================================================================
+Name:          UTA357
+Description:   PolitDiscussions
+         
+          Count   Code   Label
+          ------   ------   ------
+            305      1   Everyday
+            117      2   5-6 days a week
+            158      3   3-4 days a week
+            254      4   1-2 days a week
+            162      5   Never
+              4       8   skipped
+         
+================================================================================
+Name:          UTA358
+Description:   Protest
+         
+          Count   Code   Label
+          ------   ------   ------
+            751      1   Never
+             96      2   Once
+             66      3   Twice
+             85      4   More than 3 times
+              2       8   skipped
+         
+================================================================================
+Name:          UTA359
+Description:   Article1
+         
+          Count   Code   Label
+           ------   ------   ------
+            245      1   “Trump’s recent immigration policies explained”
+            265      2   “International students now prohibited to work in the 
+                            U.S. amidst the global pandemic”
+            209      3   “The oldest tiger in a South African zoo attacks a 
+                            6-year-old tourist”
+            280      9   Not sure/No Preference
+              1      98   skipped
+         
+================================================================================
+Name:          UTA360
+Description:   Article2
+         
+          Count   Code   Label
+          ------   ------   ------
+            243      1   “Trump supports conspiracy theory over protesters, 
+                            here is how…”
+            301      2   “An elderly protester shoved to the ground by the 
+                            police could be a “set up”? Says who?”
+            172      3   “A giraffe found dead after escaping from Madagascar 
+                            Zoo”
+            280      9   Not sure/No Preference
+              4      98   skipped
+         
+================================================================================
+Name:          UTA361
+Description:   LA1
+         
+          Count   Code   Label
+          ------   ------   ------
+            243      1   Yes
+            473      2   No
+            280      9   Not sure/No Preference
+              4      98   skipped
+         
+================================================================================
+Name:          UTA362
+Description:   LA1b
+         
+          Count   Code   Label
+          ------   ------   ------
+            229      1   Yes
+            489      2   No
+            277      9   Not sure/No Preference
+              5      98   skipped
+        
+================================================================================
+===================================== END =======================================

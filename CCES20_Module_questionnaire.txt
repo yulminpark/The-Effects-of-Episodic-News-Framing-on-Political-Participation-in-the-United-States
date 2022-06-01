@@ -1,0 +1,125 @@
+================================================================================
+Survey Questionnaire
+(Extracted from the 2020 Cooperative Congressional Election Study (CCES) Module)
+
+* Note:   Our module is omnibus, and therefore, we cannot make publicly available other researchers' questions.
+            Only the questions that I used for my research are included in this file.
+
+Total Number of Interviews:   1,000 individuals
+Field Period:                      September 29, 2020 - November 02, 2020
+
+================================================================================
+           Variable List                                 
+================================================================================
+
+birthyr                       Birth Year
+gender                      Gender
+educ                         Education
+inputstate                   State of Residence
+newsint                      Political Interest
+faminc_new                 Family Income
+UTA357                      PolitDiscussions
+UTA358                      Protest
+UTA359                      Article1
+UTA360                      Article2
+UTA361                      LA1
+UTA362                      LA1b
+
+================================================================================
+           Survey Questionnaire - In the 2020 CCES UT Module
+================================================================================
+* Note:   Variables not listed here can be obtained from the 2020 CCES Common Content Datatset, which is publicly
+            available at: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910/DVN/E9N6PH
+            (last accessed on May 29, 2022).                          
+================================================================================
+Name:          UTA357
+Description:   PolitDiscussions
+
+  SINGLE CHOICE
+
+  In a typical week, how often do you discuss politics with your family, friends, or colleagues?
+	1	Everyday
+	2	5-6 days a week
+	3	3-4 days a week
+	4	1-2 days a week
+	5	Never
+
+================================================================================
+Name:          UTA358
+Description:   Protest
+
+  SINGLE CHOICE
+
+  Thinking back over the past four years, how many times have you participated in a political protest, 
+  march, or demonstration?
+	1	Never
+	2	Once
+	3	Twice
+	4	More than 3 times
+
+================================================================================
+Name:          UTA359
+Description:   Article1
+
+  SINGLE CHOICE
+  Randomize response options
+
+  If you were given news articles with the following titles, which one would you choose to read first?
+	1	“Trump’s recent immigration policies explained”
+	2	“International students now prohibited to work in the U.S. amidst the global pandemic”
+	3	“The oldest tiger in a South African zoo attacks a 6-year-old tourist”
+	9	{Fixed}Not sure/No Preference
+
+================================================================================
+Name:          UTA360
+Description:   Article2
+
+  SINGLE CHOICE
+  Randomize response options
+
+  If you were given news articles with the following titles, which one would you choose to read first?
+	1	“Trump supports conspiracy theory over protesters, here is how…”
+	2	“An elderly protester shoved to the ground by the police could be a “set up”? Says who?”
+	3	“A giraffe found dead after escaping from Madagascar Zoo”
+	9	{Fixed}Not sure/No Preference
+
+================================================================================
+Name:          UTA361
+Description:   LA1
+
+  EXTENSIVE READING SINGLE CHOICE
+
+  The Trump administration is considering an executive order to ban immigration to the U.S. The order will suspend 
+  almost all employment-based visas including L-1, H-1B, and J-1, as well as Diversity Visa Program, to non-U.S. 
+  citizens. Supporters argue that the change is necessary to re-invigorate the economy. Opposition to the proposed 
+  change has been fierce, however, with critics charging that the administration is “exploiting this public health 
+  emergency to advance its anti-immigrant policy agenda.” They point to a new study showing that almost 50% of 
+  Fortune 500 companies are founded by immigrants and yield “more than $6 trillion in revenue per year.”
+
+  Whatever you think about this order, would you be willing to participate in a protest, rally, or demonstration 
+  to show your opinion on this issue?
+	1	Yes
+	2	No
+	9	Not sure/No Preference
+
+================================================================================
+Name:          UTA362
+Description:   LA1b 
+
+  EXTENSIVE READING SINGLE CHOICE
+
+  Abdul, a graduate student from India, has an excellent academic record but is worried about not being allowed to 
+  enter the U.S. upon graduation. Abdul planned to seek a work-study grant and then apply for an H-1B visa, but a 
+  potential executive order by President Trump to suspend visas has left this young man overwhelmed. Abdul 
+  acknowledges the current health crisis and the shrinking job market in America, but thinks Trump’s decision takes 
+  advantage of this global chaos and the soaring unemployment rate in the U.S. to unfairly ban hard-working 
+  immigrants. 
+
+  Whatever you think about this order, would you be willing to participate in a protest, rally, or demonstration 
+  to show your opinion on this issue?
+	1	Yes
+	2	No
+	9	Not sure/No Preference
+
+================================================================================
+===================================== END =======================================

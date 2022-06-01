@@ -1,33 +1,37 @@
-================================================================================
+=====================================================================================================================
 Codebook for Variables
 (Extracted from the 2020 Cooperative Congressional Election Study (CCES) Module)
 
 * Note:   Our module is omnibus, and therefore, we cannot make publicly available other researchers' questions.
-            Only the questions that I used for my research are included in this codebook.
+          Only the questions that I used for my research are included in this codebook.
 
 Total Number of Interviews:   1,000 individuals
-Field Period:                      September 29, 2020 - November 02, 2020
+Field Period:                 September 29, 2020 - November 02, 2020
 
-================================================================================
+=====================================================================================================================
            Variable List                                 
-================================================================================
+=====================================================================================================================
 
+caseid                        Panman Sample ID
+teamweight                    Team Weight
+tookpost                      Took post-election survey
+CCEStake                      Consent to participate
 birthyr                       Birth Year
-gender                      Gender
-educ                         Education
-inputstate                   State of Residence
-newsint                      Political Interest
-faminc_new                 Family Income
-UTA357                      PolitDiscussions
-UTA358                      Protest
-UTA359                      Article1
-UTA360                      Article2
-UTA361                      LA1
-UTA362                      LA1b
+gender                        Gender
+educ                          Education
+inputstate                    State of Residence
+newsint                       Political Interest
+faminc_new                    Family income
+UTA357                        PolitDiscussions
+UTA358                        Protest
+UTA359                        Article1
+UTA360                        Article2
+UTA361                        LA1
+UTA362                        LA1b
  
-================================================================================
+=====================================================================================================================
             Variable Map and Codebook                           
-================================================================================
+=====================================================================================================================
 Name:          birthyr
 Description:   Birth Year
          
@@ -35,7 +39,7 @@ Description:   Birth Year
          
                answered       : 1000
 
-================================================================================
+=====================================================================================================================
 Name:          gender
 Description:   Gender
          
@@ -44,7 +48,7 @@ Description:   Gender
             425      1   Male
             575      2   Female
          
-================================================================================
+=====================================================================================================================
 Name:          educ
 Description:   Education
          
@@ -57,7 +61,7 @@ Description:   Education
             229      5   4-year
             138      6   Post-grad
          
-================================================================================
+=====================================================================================================================
 Name:          inputstate
 Description:   State of Residence
          
@@ -115,7 +119,7 @@ Description:   State of Residence
              14     55   Wisconsin
               2     56   Wyoming
          
-================================================================================
+=====================================================================================================================
 Name:          newsint
 Description:   Political Interest
          
@@ -128,7 +132,7 @@ Description:   Political Interest
              38      7   Don't know
               1     98   skipped
          
-================================================================================
+=====================================================================================================================
 Name:          faminc_new
 Description:   Family Income
          
@@ -153,81 +157,81 @@ Description:   Family Income
              99     97   Prefer not to say
               1    998   skipped
          
-================================================================================
+=====================================================================================================================
 Name:          UTA357
 Description:   PolitDiscussions
          
           Count   Code   Label
-          ------   ------   ------
+          -----   ----   -----
             305      1   Everyday
             117      2   5-6 days a week
             158      3   3-4 days a week
             254      4   1-2 days a week
             162      5   Never
-              4       8   skipped
+              4      8   skipped
          
-================================================================================
+=====================================================================================================================
 Name:          UTA358
 Description:   Protest
          
           Count   Code   Label
-          ------   ------   ------
+          -----   ----   -----
             751      1   Never
              96      2   Once
              66      3   Twice
              85      4   More than 3 times
-              2       8   skipped
+              2      8   skipped
          
-================================================================================
+=====================================================================================================================
 Name:          UTA359
 Description:   Article1
          
           Count   Code   Label
-           ------   ------   ------
+          -----   ----   -----
             245      1   “Trump’s recent immigration policies explained”
             265      2   “International students now prohibited to work in the 
-                            U.S. amidst the global pandemic”
+                         U.S. amidst the global pandemic”
             209      3   “The oldest tiger in a South African zoo attacks a 
-                            6-year-old tourist”
+                         6-year-old tourist”
             280      9   Not sure/No Preference
-              1      98   skipped
+              1     98   skipped
          
-================================================================================
+=====================================================================================================================
 Name:          UTA360
 Description:   Article2
          
           Count   Code   Label
-          ------   ------   ------
+          -----   ----   -----
             243      1   “Trump supports conspiracy theory over protesters, 
-                            here is how…”
+                         here is how…”
             301      2   “An elderly protester shoved to the ground by the 
-                            police could be a “set up”? Says who?”
+                         police could be a “set up”? Says who?”
             172      3   “A giraffe found dead after escaping from Madagascar 
-                            Zoo”
+                         Zoo”
             280      9   Not sure/No Preference
-              4      98   skipped
+              4     98   skipped
          
-================================================================================
+=====================================================================================================================
 Name:          UTA361
 Description:   LA1
          
           Count   Code   Label
-          ------   ------   ------
+          -----   ----   -----
             243      1   Yes
             473      2   No
             280      9   Not sure/No Preference
-              4      98   skipped
+              4     98   skipped
          
-================================================================================
+=====================================================================================================================
 Name:          UTA362
 Description:   LA1b
          
           Count   Code   Label
-          ------   ------   ------
+          -----   ----   -----
             229      1   Yes
             489      2   No
             277      9   Not sure/No Preference
-              5      98   skipped
+              5     98   skipped
         
-================================================================================
-===================================== END =======================================
+=====================================================================================================================
+===================================================== END ===========================================================

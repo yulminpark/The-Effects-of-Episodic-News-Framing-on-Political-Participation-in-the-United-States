@@ -1,37 +1,41 @@
-================================================================================
-Survey Questionnaire
+=====================================================================================================================
+Codebook for Variables
 (Extracted from the 2020 Cooperative Congressional Election Study (CCES) Module)
 
 * Note:   Our module is omnibus, and therefore, we cannot make publicly available other researchers' questions.
-            Only the questions that I used for my research are included in this file.
+          Only the questions that I used for my research are included in this codebook.
 
 Total Number of Interviews:   1,000 individuals
-Field Period:                      September 29, 2020 - November 02, 2020
+Field Period:                 September 29, 2020 - November 02, 2020
 
-================================================================================
+=====================================================================================================================
            Variable List                                 
-================================================================================
+=====================================================================================================================
 
+caseid                        Panman Sample ID
+teamweight                    Team Weight
+tookpost                      Took post-election survey
+CCEStake                      Consent to participate
 birthyr                       Birth Year
-gender                      Gender
-educ                         Education
-inputstate                   State of Residence
-newsint                      Political Interest
-faminc_new                 Family Income
-UTA357                      PolitDiscussions
-UTA358                      Protest
-UTA359                      Article1
-UTA360                      Article2
-UTA361                      LA1
-UTA362                      LA1b
+gender                        Gender
+educ                          Education
+inputstate                    State of Residence
+newsint                       Political Interest
+faminc_new                    Family income
+UTA357                        PolitDiscussions
+UTA358                        Protest
+UTA359                        Article1
+UTA360                        Article2
+UTA361                        LA1
+UTA362                        LA1b
 
-================================================================================
+=====================================================================================================================
            Survey Questionnaire - In the 2020 CCES UT Module
-================================================================================
+=====================================================================================================================
 * Note:   Variables not listed here can be obtained from the 2020 CCES Common Content Datatset, which is publicly
-            available at: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910/DVN/E9N6PH
-            (last accessed on May 29, 2022).                          
-================================================================================
+          available at: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910/DVN/E9N6PH
+          (last accessed on May 29, 2022).                          
+=====================================================================================================================
 Name:          UTA357
 Description:   PolitDiscussions
 
@@ -44,7 +48,7 @@ Description:   PolitDiscussions
 	4	1-2 days a week
 	5	Never
 
-================================================================================
+=====================================================================================================================
 Name:          UTA358
 Description:   Protest
 
@@ -57,7 +61,7 @@ Description:   Protest
 	3	Twice
 	4	More than 3 times
 
-================================================================================
+=====================================================================================================================
 Name:          UTA359
 Description:   Article1
 
@@ -70,7 +74,7 @@ Description:   Article1
 	3	“The oldest tiger in a South African zoo attacks a 6-year-old tourist”
 	9	{Fixed}Not sure/No Preference
 
-================================================================================
+=====================================================================================================================
 Name:          UTA360
 Description:   Article2
 
@@ -83,7 +87,7 @@ Description:   Article2
 	3	“A giraffe found dead after escaping from Madagascar Zoo”
 	9	{Fixed}Not sure/No Preference
 
-================================================================================
+=====================================================================================================================
 Name:          UTA361
 Description:   LA1
 
@@ -102,7 +106,7 @@ Description:   LA1
 	2	No
 	9	Not sure/No Preference
 
-================================================================================
+=====================================================================================================================
 Name:          UTA362
 Description:   LA1b 
 
@@ -121,5 +125,5 @@ Description:   LA1b
 	2	No
 	9	Not sure/No Preference
 
-================================================================================
-===================================== END =======================================
+=====================================================================================================================
+===================================================== END ===========================================================
